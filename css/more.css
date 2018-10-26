@@ -107,6 +107,8 @@
     background-color: white;
     padding: 20px;
     margin-bottom: 20px;
+    justify-content: space-between;
+    align-items: center;
   }
 
   .more_links  .more_option {
